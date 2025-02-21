@@ -10,7 +10,8 @@
 
 * [HyperQueue](https://github.com/it4innovations/hyperqueue) - user-friendly and scalable job scheduler for supercomputers
 * [Nelsie](https://github.com/spirali/nelsie) - slide making software
-* [Rain](https://github.com/substantic/rain) - framework for large distributed pipelines
+* [Rain](https://github.com/substantic/rain) - framework for large distributed pipelines 
+* [TwinSong](https://github.com/spirali/twinsong) - Jupyter from scratch in Rust
 * [Interlab](https://github.com/acsresearch/interlab) - toolkit for multi-agent interactions
 * [Nicetrace](https://github.com/spirali/nicetrace) - Python tracer focused on structured visulization
 * [RSDS](https://github.com/it4innovations/rsds) - [Dask](https://github.com/dask/distributed/) server reimplemented in Rust
